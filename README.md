@@ -6,11 +6,11 @@ Primera entrega: modelado de la **API Festivos** (Express JS + MongoDB).
 
 ## Integrantes
 
--
--
--
--
--
+- David Stiven Franco Lopez
+- Simon Pulgarin Mejia
+- Harol Stiven Restrepo Restrepo
+- Mauricio Agudelo Jiménez
+- Juan Sebastian Echeverri Gallego
 
 ## Diagramas
 
